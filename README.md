@@ -1,5 +1,3 @@
-# TGF Website
-
 # The Gender Family NFT Project
 
 Welcome to the repository of The Gender Family NFT Project! This repository contains the source code for a website that showcases a collection of NFTs, with a special focus on supporting the LGBTQ+ community. The project aims to promote awareness and equality through unique NFT artworks on the Ethereum blockchain.
