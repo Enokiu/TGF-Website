@@ -1,52 +1,50 @@
-# TGF Webseite
+# TGF Website
 
-# The Gender Family NFT Projekt
+# The Gender Family NFT Project
 
-Willkommen im Repository des The Gender Family NFT Projekts! Dieses Repository enthält den Quellcode für eine Webseite, die eine Sammlung von NFTs präsentiert und insbesondere die LGBTQ+ Community unterstützt. Das Projekt hat das Ziel, Bewusstsein und Gleichberechtigung durch einzigartige NFT-Kunstwerke auf der Ethereum-Blockchain zu fördern.
+Welcome to the repository of The Gender Family NFT Project! This repository contains the source code for a website that showcases a collection of NFTs, with a special focus on supporting the LGBTQ+ community. The project aims to promote awareness and equality through unique NFT artworks on the Ethereum blockchain.
 
-## Inhaltsverzeichnis
+## Table of Contents
 
-- [Einführung](#einführung)
-- [Merkmale](#merkmale)
-- [Erste Schritte](#erste-schritte)
-- [Verwendete Technologien](#verwendete-technologien)
-- [Verwendung](#verwendung)
-- [Mitwirken](#mitwirken)
-- [Lizenz](#lizenz)
-- [Kontakt](#kontakt)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [License](#license)
 
-## Einführung
+## Introduction
 
-The Gender Family NFT Projekt ist eine gemeinschaftsgetriebene Initiative, die Vielfalt und LGBTQ+ Rechte feiert. Das Projekt präsentiert eine Sammlung von 4999 handgezeichneten, geschlechtsneutralen NFT-Kunstwerken auf der Ethereum-Blockchain. Die Webseite bietet Einblicke in die Mission des Projekts, das Team und häufig gestellte Fragen.
+The Gender Family NFT Project is a community-driven initiative celebrating diversity and LGBTQ+ rights. The project presents a collection of 4,999 hand-drawn, gender-neutral NFT artworks on the Ethereum blockchain. The website provides insights into the project's mission, the team, and frequently asked questions.
 
-## Merkmale
+## Features
 
-- Interaktive Animationen und Designelemente zur Steigerung der Benutzerinteraktion.
-- Sanfte Scroll-Funktionalität für mühelose Navigation durch die Webseite.
-- Dynamischer Header-Hintergrundwechsel beim Scrollen.
-- FAQ-Bereich mit aufklappbaren Antworten auf häufig gestellte Fragen.
-- Team-Präsentation, die die Personen hinter dem The Gender Family Projekt hervorhebt.
-- Responsive Design.
-- Für mobile Endgeräte geeignet.
+- Interactive animations and design elements to enhance user engagement.
+- Smooth scroll functionality for effortless navigation throughout the website.
+- Dynamic header background change on scroll.
+- FAQ section with expandable answers to frequently asked questions.
+- Team presentation highlighting the individuals behind The Gender Family Project.
+- Responsive design.
+- Mobile-friendly.
 
-## Erste Schritte
+## Getting Started
 
-Um die Webseite zu erkunden und mehr über das The Gender Family NFT Projekt zu erfahren, kannst du diese Schritte befolgen:
+To explore the website and learn more about The Gender Family NFT Project, follow these steps:
 
-1. Klon dieses Repository auf deine lokale Maschine.
-2. Öffne die Datei `index.html` in deinem Webbrowser.
-3. Navigiere durch verschiedene Abschnitte, um die Details des Projekts zu erkunden.
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser.
+3. Navigate through various sections to explore project details.
 
-## Verwendete Technologien
+## Technologies Used
 
-- HTML, CSS und JavaScript zum Erstellen der Webseite.
-- jQuery-Bibliothek für interaktive Animationen und Scroll-Funktionalität.
-- Font Awesome für Ikonografie.
+- HTML, CSS, and JavaScript for building the website.
+- jQuery library for interactive animations and scroll functionality.
+- Font Awesome for iconography.
 
-## Verwendung
+## Usage
 
-Erkunde die Webseite, um die Mission des Projekts zu verstehen, die NFT-Sammlung anzusehen, mehr über die Teammitglieder zu erfahren und Antworten auf häufig gestellte Fragen zu finden.
+Explore the website to understand the project's mission, view the NFT collection, learn more about team members, and find answers to frequently asked questions.
 
-## Lizenz
+## License
 
-Dieses Projekt steht unter der [MIT Lizenz](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
