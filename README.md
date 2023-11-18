@@ -5,6 +5,7 @@ Welcome to the repository of The Gender Family NFT Project! This repository cont
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Picture Showcase](#picture-showcase)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
@@ -15,11 +16,15 @@ Welcome to the repository of The Gender Family NFT Project! This repository cont
 
 The Gender Family NFT Project is a community-driven initiative celebrating diversity and LGBTQ+ rights. The project presents a collection of 4,999 hand-drawn, gender-neutral NFT artworks on the Ethereum blockchain. The website provides insights into the project's mission, the team, and frequently asked questions.
 
-## Video Showcase
+## Picture Showcase
+Here is an illustration of the project:
 
-For a visual walkthrough of The Gender Family NFT Project website, check out our showcase video. The video provides a detailed tour of the website, highlighting key features and giving you a closer look at our NFT collection.
-
-[Watch the Showcase Video](./assets/video/TFG.mp4)
+![Project Image](./assets/imgs/website/1.png)
+![Project Image](./assets/imgs/website/2.png)
+![Project Image](./assets/imgs/website/3.png)
+![Project Image](./assets/imgs/website/4.png)
+![Project Image](./assets/imgs/website/5.png)
+![Project Image](./assets/imgs/website/6.png)
 
 ## Features
 
